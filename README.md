@@ -22,6 +22,14 @@ Place both files in the same directory as the notebook.
 - K-means clustering identified three groups matching known oceanographic water mass types (surface, mid-depth, deep) with a silhouette score of 0.44.
 - Both temperature and oxygen show a declining trend from the 1980s through 2021.
 
+## Visualizations
+
+![Time Trend](time_trend.png)
+*Annual average temperature and dissolved oxygen, 1949–2021*
+
+![Correlation Heatmap](correlation_heatmap.png)
+*Correlation heatmap of temperature, dissolved oxygen, and salinity*
+
 ## Files
 
 - `calcofi_analysis.ipynb` — Full analysis notebook with code, outputs, and documentation
