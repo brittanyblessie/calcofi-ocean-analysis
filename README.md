@@ -24,8 +24,8 @@ Place both files in the same directory as the notebook.
 
 ## Files
 
-- `Blessie_DSC530_CalCOFI_Final_Project.ipynb` — Full analysis notebook with code, outputs, and documentation
-- `California_Coastal_Waters.pdf` — Project narrative (500–1000 words) with visualizations
+- `calcofi_analysis.ipynb` — Full analysis notebook with code, outputs, and documentation
+- `project_narrative.pdf` — Project narrative with visualizations
 
 ## Tools
 
