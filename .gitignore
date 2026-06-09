@@ -1,0 +1,19 @@
+# Raw data files (too large for GitHub - download from CalCOFI)
+194903-202105_Bottle.csv
+194903-202105_Cast.csv
+CalCOFI_Database_194903-202105_csv_*.csv
+ 
+# Jupyter checkpoints
+.ipynb_checkpoints/
+ 
+# Python
+__pycache__/
+*.pyc
+ 
+# OS files
+.DS_Store
+Thumbs.db
+ 
+# Word temp files
+~$*.docx
+ 
