@@ -25,9 +25,11 @@ Place both files in the same directory as the notebook.
 ## Visualizations
 
 ![Time Trend](time_trend.png)
+
 *Annual average temperature and dissolved oxygen, 1949–2021*
 
 ![Correlation Heatmap](correlation_heatmap.png)
+
 *Correlation heatmap of temperature, dissolved oxygen, and salinity*
 
 ## Files
